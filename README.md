@@ -1,2 +1,2 @@
-# webdesidgn-batch-2-assignment-1
+# webdesidgn-batch-2-assignments
 1st assignment
