@@ -1,0 +1,80 @@
+/* .fcontainer{
+    display: flex;
+    justify-content: center;
+    
+} */
+html,
+body {
+    height: 100vw;
+    margin: 0;
+}
+
+.box {
+    background-color: blue;
+    height: 100vw;
+}
+
+.button {
+    background-color: rgb(250, 120, 9);
+    color: aliceblue;
+    padding: 12px 20px;
+    text-align: center;
+
+}
+
+.mainbutton {
+    background-color: rgb(250, 120, 9);
+    color: white;
+    padding: 6px 14px;
+
+}
+
+.button1 {
+    background-color: black;
+    color: white;
+    padding: 12px 18px;
+
+    text-align: center;
+
+
+}
+
+.box {
+    border: 0.5px solid black;
+    width: 25vw;
+    height: 400px;
+    padding: 0px 12px;
+    background-color: white;
+}
+
+.boxh {
+    text-align: center;
+    color: orangered
+}
+
+.Contact {
+    color: rgba(80, 92, 49, 0.815);
+}
+
+.enddiv {
+    padding: 10px;
+    line-height: 25px;
+    text-align: justify;
+    margin-left: 20px;
+    width: 24%;
+    height: 300px;
+    display: inline-block;
+   
+
+}
+ul{
+    display: flex;
+                  justify-content: right;
+                  margin-top: -45px;
+                  text-align: center;
+                  list-style: none;
+                  gap: 40px;
+}
+.background-color{
+    background-color:rgba(171, 190, 201, 0.356)
+}
